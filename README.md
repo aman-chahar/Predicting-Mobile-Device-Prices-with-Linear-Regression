@@ -15,4 +15,4 @@ In this project, I followed a structured approach to data analysis and model bui
 6. **Prediction:** I also provided a feature for users to input specific mobile device features, and the model would predict the price based on these inputs. This feature can be used for price estimation.
 
 
-Feel free to customize and expand upon this description to match your own style and preferences.
+Thank you for your support and engagement! #DataScience #MachineLearning #DataAnalysis #LinearRegression #PredictiveModeling #LinkedInProjects
